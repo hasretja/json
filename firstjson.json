@@ -1,0 +1,12 @@
+{
+tarif: [
+{
+malzeme: "un",
+yemek: "helva"
+},
+{
+malzeme: "2 bardak un, 2 bardak sut ,yarım bardak yağ ",
+yemek: "börek"
+}
+]
+}
